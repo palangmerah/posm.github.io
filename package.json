@@ -1,8 +1,8 @@
 {
-  "name": "posm.io",
+  "name": "posm.rxdata.science",
   "description": "POSM promo site / docs",
   "version": "0.0.0",
-  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "author": "Alex <husn.mubarok@gmail.com>",
   "dependencies": {
     "foundation-sites": "^6.3.1",
     "gatsby": "1.0.0-alpha13",
